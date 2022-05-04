@@ -15,9 +15,8 @@ public class mobilePayment {
     By cvv = By.xpath("//input[@data-qa-node=\"cvvdebitSource\"]");
     By buttonInput = By.xpath("//button[@data-qa-node=\"submit\"]");
 
-
     // Описание вспомогательных методов
-
+    //Test string
 
     // Написание тестов
 
